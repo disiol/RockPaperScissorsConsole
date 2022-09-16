@@ -1,0 +1,6 @@
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/bin/Release/RockPaperScissors.exe
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/bin/Release/RockPaperScissors.pdb
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/obj/Release/RockPaperScissors.csproj.CoreCompileInputs.cache
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/obj/Release/RockPaperScissors.exe
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/obj/Release/RockPaperScissors.pdb
+/home/denis/IT/unity/materials/lesons/Професія Unity розробник/#2 - Продвинутый C#/RockPaperScissors/RockPaperScissors/obj/Release/RockPaperScissors.csproj.AssemblyReference.cache
